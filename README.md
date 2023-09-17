@@ -93,22 +93,5 @@
         <br>
       <img src="https://www.visual-expert.com/images/sql-server-2019-installation-completed.png" alt="Installation of SQL Server 2019 Completed"><br></li><br>
       </ol>
-      <section class="section pl-20 pr-20" style="max-width: 1084px;">
-          <div class="row">
-            <div class="col-md-10 default-bg clearfix bg-blue-gradient ">
-              <div class="call-to-action pl-10 pv-10">
-                <div class="row">
-                  <div class="col-sm-12 text-center">
-                    <h1>Analyze your SQL Server T-SQL Code</h1>
-                    <p class="lead">Download <strong>Visual Expert Free Trial</strong> to Analyze Cross-References, Document your SQL&nbsp;Server&nbsp;Code, Generate Diagrams and CRUD Matrix, and&nbsp;much&nbsp;more.
-                    </p>
-                     <p><br>
-                    <a href="https://www.visual-expert.com/EN/download_VE-for-SQL-Server-trial.html" class="btn btn-default btn-lg btn-animated">Try Visual Expert <i class="fa fa-download pl-20"></i></a></p>
-                  </div>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+     
     
